@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#1A1A1A">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Generation (kWh)"
+        android:textColor="#FFD700"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/editGen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Generation"
+        android:inputType="numberDecimal"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#FFD700" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Update Consumption (kWh)"
+        android:textColor="#FFD700"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/editCon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Consumption"
+        android:inputType="numberDecimal"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#FFD700" />
+
+</LinearLayout>
