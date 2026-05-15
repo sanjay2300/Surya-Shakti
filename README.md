@@ -33,5 +33,12 @@ Managing and monitoring solar energy systems efficiently is difficult without a 
 - Live sensor support
 - Advanced analytics dashboard
 
+## Screenshots
+
+![Screenshot 1](WhatsApp Image 2026-05-15 at 11.28.53 AM.jpeg)
+
+![Screenshot 2](WhatsApp Image 2026-05-15 at 11.28.53 AM (1).jpeg)
+
+![Screenshot 3](WhatsApp Image 2026-05-15 at 11.28.53 AM (2).jpeg)
 ## Author
 Sanjay B
